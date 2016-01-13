@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2D Cartoon Missiles\Scripts\Ship.cs">
+    <Files>
+      <File FileName="Assets\2D Cartoon Missiles\Scripts\GameManager.cs" Line="27" Column="4" />
+      <File FileName="Assets\2D Cartoon Missiles\Scripts\UIManagerScript.cs" Line="21" Column="16" />
+      <File FileName="Assets\2D Cartoon Missiles\Scripts\PlanetGravity.cs" Line="33" Column="5" />
+      <File FileName="Assets\2D Cartoon Missiles\Scripts\Ship.cs" Line="59" Column="1" />
+      <File FileName="Assets\2D Cartoon Missiles\Scripts\SpaceCollider.cs" Line="11" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="H:\Fall15\Animation\Project\2d planets -gravity - Copy - Copy\Assets\2D Cartoon Missiles\Scripts\UIManagerScript.cs" line="51" />
+      <Breakpoint file="H:\Fall15\Animation\Project\2d planets -gravity - Copy - Copy\Assets\2D Cartoon Missiles\Scripts\UIManagerScript.cs" line="21" />
+      <Breakpoint file="H:\Fall15\Animation\Project\2d planets -gravity - Copy - Copy\Assets\2D Cartoon Missiles\Scripts\Ship.cs" line="58" />
+      <Breakpoint file="H:\Fall15\Animation\Project\2d planets -gravity - Copy - Copy\Assets\2D Cartoon Missiles\Scripts\Ship.cs" line="56" />
+      <Breakpoint file="H:\Fall15\Animation\Project\2d planets -gravity - Copy - Copy\Assets\2D Cartoon Missiles\Scripts\Ship.cs" line="50" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
